@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mysql2": "^3.16.0",
+    "sequelize": "^6.37.7"
+  },
+  "name": "orm-sequlize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
